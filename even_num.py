@@ -93,3 +93,12 @@ print("z -> ", list(z))
 print("z -> ", list(z))
 print("z -> ", list(z))
 
+print("z -> ", list(z))
+print("z -> ", list(z))
+
+print("z -> ", list(z))
+print("z -> ", list(z))
+
+print("z -> ", list(z))
+print("z -> ", list(z))
+
