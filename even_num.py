@@ -87,27 +87,4 @@ price = 500, 1000, 1500
 
 z = zip(name, price)
 print("z -> ", list(z))
-print("z -> ", list(z))
-print("z -> ", list(z))
-
-print("z -> ", list(z))
-print("z -> ", list(z))
-
-print("z -> ", list(z))
-print("z -> ", list(z))
-
-print("z -> ", list(z))
-print("z -> ", list(z))
-
-print("z -> ", list(z))
-print("z -> ", list(z))
-
-print("z -> ", list(z))
-print("z -> ", list(z))
-
-print("z -> ", list(z))
-print("z -> ", list(z))
-
-print("z -> ", list(z))
-print("z -> ", list(z))
 
